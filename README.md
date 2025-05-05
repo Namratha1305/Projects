@@ -4,9 +4,6 @@ A responsive clone of Jovian's careers page built with pure HTML and CSS, demons
 
 **Live Demo:** [View Project](https://namratha1305.github.io/Projects/)
 
-![Desktop View](./Screenshot(1).png)
-![Mobile View](./Screenshot(2).png)
-
 ## Key Features
 - **Pixel-perfect UI**: Replicated Jovian's clean, professional design
 - **Responsive Layout**: Adapts seamlessly to desktop and mobile devices
