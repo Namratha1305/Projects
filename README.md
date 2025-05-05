@@ -5,22 +5,21 @@ A responsive clone of Jovian's careers page built with pure HTML and CSS, demons
 **Live Demo:** [View Project](https://namratha1305.github.io/Projects/)
 
 ## Key Features
-- **Pixel-perfect UI**: Replicated Jovian's clean, professional design
+- **Pixel-perfect UI**: Replicating Jovian's clean, professional design
 - **Responsive Layout**: Adapts seamlessly to desktop and mobile devices
 - **Interactive Elements**: Styled buttons and navigation components
 - **Data Presentation**: Organized job listings in a structured table format
 
 ## Technologies Used
-- **Frontend**: HTML5, CSS3
+- **Frontend**: HTML, CSS
 - **Deployment**: GitHub Pages
 
 ## Project Structure
 Projects/
-├── index.html # Main page structure
-├── styles/ # CSS stylesheets
-├── Screenshot(1).png # Desktop preview
-└── Screenshot(2).png # Mobile preview
-
+├── index.html               # Main HTML file
+├── styles/           
+│   └── Stylesheet(1).css    # Stylesheet 
+└── README.md                # Project documentation
 
 ## How to Run Locally
 ```bash
