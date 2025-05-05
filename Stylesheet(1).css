@@ -1,0 +1,119 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+a{
+    text-decoration: none;
+}
+#navbar {
+    padding: 8px;
+    margin: 0;
+}
+
+
+#banner{
+    object-fit: cover;
+}
+#logo{
+    height: 32px;
+}
+h1{
+    text-align: center;
+    
+}
+
+#banner {
+    width: 100%;
+}
+
+#about{
+    display: flex;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 8px;
+}
+
+#description{
+    width: 50%;
+    padding-right: 8px;
+    /*background-color: yellowgreen;*/
+}
+
+
+#team{
+    width: 50%;
+    /*background-color: blueviolet;*/
+}
+
+#team-image{
+    border-radius: 2px;
+    width: 100%;
+    border: 5px solid;
+    border-color: blue
+}
+.Location{
+    color: gray;
+    margin-bottom: 16px;
+}
+
+h2{
+    text-align: center;
+}
+
+#jobs{
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 0 8px;
+}
+
+h3{
+    margin-bottom: 4px;
+    margin-top: 0;
+}
+
+.apply{
+    float: right
+}
+#footer{
+    background-color: ghostwhite;
+    padding: 8px;
+    margin-top: 32px;
+    text-align: center;
+}
+
+#footer-links{
+    list-style: none;
+}
+#footer-links li{
+    display: inline;
+    margin: 0 16px;
+}
+
+#copyrite{
+    color: grey;
+}
+
+.table{
+    width: 100%;
+    border: 1px solid grey;
+    border-collapse: collapse;
+}
+
+.jobs-header th{
+    text-align: left;
+    border: 1px solid grey;
+    padding: 8px;
+    background-color: aliceblue;
+}
+
+.jobs-data td{
+    border: 1px solid gray;
+    padding: 8px;
+}
+
+.table tr:nth-child(odd){
+    background-color: ghostwhite;
+
+}
